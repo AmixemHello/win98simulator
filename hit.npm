@@ -1,1 +1,1 @@
-exec "sudo git 
+exec "sudo git get source/blob"
